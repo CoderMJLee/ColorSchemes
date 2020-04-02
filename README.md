@@ -1,8 +1,8 @@
 # ColorSchemes
 - Some color schemes for IDE.
 - 用过这么多IDE，个人还是觉得Xcode的配色最好看，所以给JetBrains系列的IDE都做了一套仿Xcode的配色方案
-	- **CLion_MJ.jar**：CLion
-	- **IDEA_MJ.jar**：IntelliJ IDEA
+	- **CLion_MJ.jar**：[CLion](https://www.jetbrains.com/clion/)
+	- **IDEA_MJ.jar**：[IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
 
 
